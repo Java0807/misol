@@ -26,6 +26,7 @@ export default function Home() {
       <div
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
+        <h1>hello</h1>
         <OrderList />
       </div>
     </>
